@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=LOVEMEGOWIN&width=800&height=400)
+Hi, 
 <!--
 **lovemegowin/lovemegowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
